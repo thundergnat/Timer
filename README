@@ -22,7 +22,7 @@ Returns the return value of the block and the time elapsed in seconds.
 
 =head1 DESCRIPTION
 
-A simple timer, useful to evaluate run time of a callble block without needing
+A simple timer, useful to evaluate run time of a callable block without needing
 to set up variables and calls to a time function.
 
 Extremely simple and easy to implement, but I found myself writeing it over
